@@ -1,0 +1,22 @@
+{
+    "name": "postcss",
+    "version": "1.0.0",
+    "description": "Configuration file for PostCSS",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^6.7.7",
+        "cssnano": "^3.10.0",
+        "gulp": "^3.9.1",
+        "gulp-postcss": "^6.4.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0",
+        "gulp-sourcemaps": "^1.12.0",
+        "postcss-reporter": "^5.0.0",
+        "stylelint": "^8.4.0"
+    }
+}
